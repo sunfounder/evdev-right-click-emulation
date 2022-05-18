@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Evdev Right Click Emulation
+Name[zh_CN]=Evdev 右键模拟
+Comment=Emulate right click for touchscreen
+Exec=sudo /usr/local/bin/evdev-rce
+Type=Application
+Categories=Accessories;MB
+X-MB-INPUT-MECHANSIM=True
